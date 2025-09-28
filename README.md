@@ -8,7 +8,7 @@ I am passionate about turning raw data into meaningful stories—whether through
 📱 Phone: +91 9656164533
 🔗 LinkedIn: www.linkedin.com/in/minhajmuhammedt
 
-🔑 Skills & Tools
+### 🔑 Skills & Tools
 
 Data Visualization: Power BI, Tableau, Excel
 
@@ -20,6 +20,6 @@ Business Analytics: Data Cleaning, Trend Analysis, Dashboarding, Decision Optimi
 
 📂 Explore my repositories to see case studies and end-to-end projects in data analytics, visualization, and statistical analysis.
 
-##🎓 Current Role (separate from data analytics journey)
+## 🎓 Current Role (separate from data analytics journey)
 
 I currently work as a Lecturer in Mechanical Engineering at KMCT Institute of Technology & Management, where I design and deliver courses, guide labs, prepare course files for accreditation, and mentor students to achieve academic success.
