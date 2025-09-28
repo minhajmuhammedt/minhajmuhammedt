@@ -1,5 +1,10 @@
-## Hi there 👋
+# Minhaj Muhammed T
+## Aspiring Data Analyst | Proficient in Excel, SQL, Power BI | Passionate About Turning Data into Business Solutions
+I am a Mechanical Engineering professional and Lecturer at KMCT Institute of Technology & Management, now transitioning into the field of Data Analytics. With experience in teaching, curriculum design, and academic mentoring, I have built strong problem-solving, analytical, and organizational skills. Recently, I completed a Data Analytics certification from Skillovilla, where I gained practical experience in data handling, analysis, and visualization.
 
+I am passionate about transforming raw data into meaningful insights that support better decision-making. The process of uncovering patterns, optimizing processes, and solving real-world challenges through data excites me and motivates my career transition.
+
+My expertise includes Excel, SQL, Python and Power BI along with a solid understanding of statistical analysis and data-driven storytelling. I am eager to connect with data professionals and explore opportunities to apply my analytical skills while continuing to grow in the field of data analytics.
 <!--
 **minhajmuhammedt/minhajmuhammedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
