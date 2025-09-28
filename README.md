@@ -1,21 +1,21 @@
 # Minhaj Muhammed T
 ## Aspiring Data Analyst | Proficient in Excel, SQL, Power BI | Passionate About Turning Data into Business Solutions
-I am a Mechanical Engineering professional and Lecturer at KMCT Institute of Technology & Management, now transitioning into the field of Data Analytics. With experience in teaching, curriculum design, and academic mentoring, I have built strong problem-solving, analytical, and organizational skills. Recently, I completed a Data Analytics certification from Skillovilla, where I gained practical experience in data handling, analysis, and visualization.
+I’m a Mechanical Engineering graduate transitioning into Data Analytics, with a strong foundation in problem-solving, structured documentation, and analytical thinking. Over the past year, I have worked on multiple hands-on projects in Power BI, SQL, Python, Excel, and Statistics, where I applied data-driven approaches to uncover insights, build dashboards, and support decision-making.
 
-I am passionate about transforming raw data into meaningful insights that support better decision-making. The process of uncovering patterns, optimizing processes, and solving real-world challenges through data excites me and motivates my career transition.
+I am passionate about turning raw data into meaningful stories—whether through interactive dashboards, optimized SQL queries, or statistical models. My projects span domains like e-commerce sales, airline operations, employee-project analysis, and real-time business case studies, each sharpening my ability to deliver actionable insights.
 
-My expertise includes Excel, SQL, Python and Power BI along with a solid understanding of statistical analysis and data-driven storytelling. I am eager to connect with data professionals and explore opportunities to apply my analytical skills while continuing to grow in the field of data analytics.
-<!--
-**minhajmuhammedt/minhajmuhammedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔑 Skills & Tools
 
-Here are some ideas to get you started:
+Data Visualization: Power BI, Tableau, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming & Analysis: Python (Pandas, NumPy, Matplotlib), SQL
+
+Statistics: Regression, Hypothesis Testing, Correlation, Probability Analysis
+
+Business Analytics: Data Cleaning, Trend Analysis, Dashboarding, Decision Optimization
+
+📂 Explore my repositories to see case studies and end-to-end projects in data analytics, visualization, and statistical analysis.
+
+🎓 Current Role (separate from data analytics journey)
+
+I currently work as a Lecturer in Mechanical Engineering at KMCT Institute of Technology & Management, where I design and deliver courses, guide labs, prepare course files for accreditation, and mentor students to achieve academic success.
