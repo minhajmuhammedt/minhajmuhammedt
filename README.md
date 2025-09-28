@@ -4,22 +4,19 @@ I’m a Mechanical Engineering graduate transitioning into Data Analytics, with 
 
 I am passionate about turning raw data into meaningful stories—whether through interactive dashboards, optimized SQL queries, or statistical models. My projects span domains like e-commerce sales, airline operations, employee-project analysis, and real-time business case studies, each sharpening my ability to deliver actionable insights.
 
-📫 Contact Me
 
-📧 Email: [your.email@example.com
-]
 
-📱 Phone: [+91-XXXXXXXXXX]
+📧 Email: minhajmuhammedt12@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/your-profile
+
+📱 Phone:  +91 9656164533
+
+🔗 LinkedIn: www.linkedin.com/in/minhajmuhammedt
 
 💻 GitHub: github.com/yourusername
 
-📧 Email: minhajmuhammedt12@gmail.com
-📱 Phone: +91 9656164533
-🔗 LinkedIn: www.linkedin.com/in/minhajmuhammedt
 
-### 🔑 Skills & Tools
+#### 🔑 Skills & Tools
 
 Data Visualization: Power BI, Tableau, Excel
 
